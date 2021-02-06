@@ -8,4 +8,4 @@ Actualmente estoy creando una comunidad de desarrolladores y tengo un canal de y
 
 [Facebook](http://https://www.facebook.com/maidedhp "FB") |
 [Intagram](http://https://www.instagram.com/maidedhp/ "Intagram") |
-[Comunidad Developers](http://https://aminoapps.com/c/pr0gramador3s/info/ "Comunidad Developers") 
+[Comunidad Developers](https://aminoapps.com/c/pr0gramador3s/home/ "Comunidad Developers") 
