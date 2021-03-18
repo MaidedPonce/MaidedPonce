@@ -1,6 +1,6 @@
 ### Sobre mí
 
-Hey! I'm Maided Ponce, I'm from Mexico City and I'm 18 years olds. I'm studying the last year in High School and I've 1 year learning Backend Development in Javascript. In the last weeks I've been learning Python and Frontend Development with React. Futhermore, I've knowledge in Outbound Marketing.
+Hey! I'm Maided Ponce, I'm from Mexico City and I'm 18 years olds. I'm studying the last year in High School and I've 1 year learning to program in Javascript. In the other hand, I've a few months learning Backend Development. In the last weeks I've been learning Python and Frontend Development with React. Futhermore, I've knowledge in Outbound Marketing.
 Also, I'm draw and play the guitar!
 
 [Facebook](http://https://www.facebook.com/maidedhp "FB") |
