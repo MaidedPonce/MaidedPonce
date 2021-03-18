@@ -1,10 +1,7 @@
 ### Sobre mí
 
-Hey! Soy Maided Ponce, soy de la Ciudad de México y hace más de medio año estoy estudiando programación en JavaScript. En las últimas semanas también he estado aprendiendo con Python. Por otra parte, estudio marketing y la preparatoria normal.
-También dibujo y sé tocar más o menos la guitarra.
-
-En el área del marketing tengo más experiencia que en la programación. 
-Actualmente estoy creando una comunidad de desarrolladores y tengo un canal de youtube donde subo diferente contenido de dibujo.
+Hey! I'm Maided Ponce, I'm from Mexico City and I'm 18 years olds. I'm studying the last year in High School and I've 1 year learning Backend Development in Javascript. In the last weeks I've been learning Python and Frontend Development with React. Futhermore, I've knowledge in Outbound Marketing.
+Also, I'm draw and play the guitar!
 
 [Facebook](http://https://www.facebook.com/maidedhp "FB") |
 [Intagram](http://https://www.instagram.com/maidedhp/ "Intagram") |
