@@ -1,8 +1,8 @@
 <h1><img src="https://media.giphy.com/media/d7U9wE4REtinUIDeQ7/giphy.gif" width="50"> Hi! This is Maided</h1>
 
 ## About me
-Hey uwu! I'm Maided Ponce, I'm from Mexico City and I'm 19 years old. 
-I've 2 years learning to program in Javascript. 
+Hey uwu! I'm Maided Ponce, I'm from Mexico City.
+I've since 2021 learning to program in Javascript. 
 I've a few months learning Backend Development but my greatest skill is Frontend development with React.
 
 Futhermore, I've knowledge in Outbound Marketing, draw and play the guitar!🥰
