@@ -12,13 +12,15 @@ Futhermore, I've knowledge in Outbound Marketing, draw and play the guitar!🥰
 ## Projects
 The nexts project are still in development
 
-[Naruto Project](https://naruto-front-api.vercel.app/ "Naruto")
+[Next news](https://next-news-sandy-six.vercel.app/)
+
+[Rick and morty](https://maidedponce.github.io/rick-and-morty/#/)
+
+[Basic calendar](https://maidedponce.github.io/basic-calendar/)
 
 [Mini Todo Machine](https://maidedponce.github.io/todoMachine/ "Todo Machine")
 
-And others:D : 
-
-[YOF landing page](https://yeahofcourse.com/)
+[YOF landing page](https://landing-jiwy8l4ha-yesofcoursellc.vercel.app/)
 
 ## Other pretty things✨
 - Here you can find some small frontend practices: [My Codepen](https://codepen.io/maidedhp "My Codepen")
@@ -48,6 +50,5 @@ And others:D :
 
 
 -------------------------------------------------
-<em>I like to learn. That's an art and a science.
-  <p><cite>-Katherine Johnson</cite>
+<em>Crear no es mi trabajo, es mi pasion, es mi vida...
 </em>
