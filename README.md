@@ -42,6 +42,9 @@ The nexts project are still in development
 ## Stadistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MaidedPonce)](https://github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaidedPonce)](https://github.com/anuraghazra/github-readme-stats)
 
+## Latest activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## My social media
 - Find my thoughts: [maidedhp](https://www.instagram.com/maidedhp/ "Intagram")
