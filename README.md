@@ -44,6 +44,8 @@ The nexts project are still in development
 
 ## Latest activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#2](https://github.com/MaidedPonce/maidedpo/pull/2) in [MaidedPonce/maidedpo](https://github.com/MaidedPonce/maidedpo)
+2. ❗ Opened issue [#2](https://github.com/MaidedPonce/maided-hernandez-react-test/issues/2) in [MaidedPonce/maided-hernandez-react-test](https://github.com/MaidedPonce/maided-hernandez-react-test)
 <!--END_SECTION:activity-->
 
 ## My social media
